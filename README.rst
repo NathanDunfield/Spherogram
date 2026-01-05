@@ -36,5 +36,3 @@ This code is released under the `GNU General Public License, version 2
 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>`_
 or (at your option) any later version as published by the Free
 Software Foundation. 
-
-test
